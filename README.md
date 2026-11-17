@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm **Harsh Chenchiwala**, a detail-oriented **MIS Executive and Data Analyst** with over 3 years of experience in inventory management, stock reconciliation, and operational reporting within the diamond industry. I bridge the gap between core business operations and advanced data analytics using Python and automation[cite: 2, 4].
+Hi there! I'm **Harsh Chenchiwala**, a detail-oriented **MIS Executive and Data Analyst** with over 3 years of experience in inventory management, stock reconciliation, and operational reporting within the diamond industry[cite: 2, 4]. I bridge the gap between core business operations and advanced data analytics using Python and automation[cite: 2, 4].
 
 * 🔭 **I'm currently working on:** Automated MIS reporting dashboards, diamond inventory tracking systems, and machine learning models (such as insurance and house price prediction)[cite: 2, 4].
 * 🤝 **I'm looking to collaborate on:** Open-source data science projects, business intelligence tools, and advanced Excel automation scripts.
@@ -23,10 +23,10 @@ Hi there! I'm **Harsh Chenchiwala**, a detail-oriented **MIS Executive and Data 
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshChenchiwala-Ds&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=HarshChenchiwala-Ds&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshChenchiwala-Ds&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=HarshChenchiwala-Ds&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
